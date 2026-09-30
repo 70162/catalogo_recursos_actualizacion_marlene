@@ -58,3 +58,6 @@ Instalar dependencias
 2. Consulta las bibliotecas instaladas.
 3. Genera requirements.txt a partir del entorno actual.
 4. Abre el archivo y verifica que ambas dependencias se encuentren registradas.
+
+Proximaas mejoras:
+Agregar nuevas funciones al sistema tales como buscar recursos por nombre autor o fecha del recurso, organizar recursos por fechas autores y genero, actualizar versiones de libros.
