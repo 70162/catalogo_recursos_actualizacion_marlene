@@ -12,4 +12,11 @@
         "tema": "Inteligencia Artificial",
         "nivel": "Básico",
         "autor": "Universidad de León"
+    },
+    {
+        "nombre": "Guia de POO",
+        "tipo": "Guia",
+        "tema": "Programacion orientada a objetos",
+        "nivel": "Intermedio",
+        "autor": "Universidad de León"
     }]
